@@ -2,7 +2,6 @@
 
 AstroWanders: Journey Beyond The Stars is an immersive VR game that seamlessly combines entertainment with education. This project aims to provide players with an interactive exploration of the solar system, while also offering engaging puzzles to solve. Developed on the Unity platform, AstroWanders offers a unique gaming experience that allows users to learn about planets in our solar system while having fun.
 
-## Demo
 
 ## Features
 
